@@ -1,0 +1,9 @@
+{
+  "appName": "ConfigServe",
+  "version": "2.0.0",
+  "featureFlags": {
+    "featureX": true,
+    "featureY": true,
+    "newFeatureZ": false
+  }
+}
